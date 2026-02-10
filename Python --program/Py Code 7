@@ -1,0 +1,5 @@
+p=float(input("Enter Principal: ))
+r=float(input("Enter Principal: ))
+t=float(input("Enter Principal: ))
+sim=(p * r *t)/100
+print("Simple Interest: ",si)
